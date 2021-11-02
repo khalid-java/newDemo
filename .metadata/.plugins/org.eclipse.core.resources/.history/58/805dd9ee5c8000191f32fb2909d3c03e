@@ -1,0 +1,10 @@
+package khalid.jdbc;
+
+public class TransactionDemo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
